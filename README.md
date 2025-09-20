@@ -49,7 +49,7 @@ Some tools to help you on your Raylib game :)
 
   ### Functions:
   #### InitTextures:
-  ##### *Initializes the texture mager*
+  ##### *Initializes the texture manager*
   #### AddGameTexture:
   ##### *Adds one texture to the texture list*
   #### LoadGameTexture:
