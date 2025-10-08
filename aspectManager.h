@@ -12,7 +12,7 @@ int WantedHeight;
 bool IntegerScale = false;
 
 
-void InitAscpectManager(int GameWidth, int GameHeight) {
+void InitAspectManager(int GameWidth, int GameHeight) {
     WantedWidth = GameWidth;
     WantedHeight = GameHeight;
     DrawTarget = LoadRenderTexture(WantedWidth, WantedHeight);
